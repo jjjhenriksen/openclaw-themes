@@ -1,0 +1,77 @@
+{
+  "id": "christmas-themes",
+  "name": "Christmas Themes",
+  "description": "Five Christmas palettes with light/dark modes and festive scenic backgrounds.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  },
+  "themes": [
+    {
+      "id": "holly-hearth",
+      "name": "Holly & Hearth",
+      "description": "Evergreen, cranberry, ivory, and candlelight gold.",
+      "source": "themes/holly-hearth.json",
+      "icons": {
+        "evergreen": "assets/evergreen.svg"
+      },
+      "backgrounds": {
+        "light": "assets/holly-hearth-light.png",
+        "dark": "assets/holly-hearth-dark.png"
+      }
+    },
+    {
+      "id": "silent-night",
+      "name": "Silent Night",
+      "description": "Midnight blue, snowy whites, silver, and starlight gold.",
+      "source": "themes/silent-night.json",
+      "icons": {
+        "evergreen": "assets/evergreen.svg"
+      },
+      "backgrounds": {
+        "light": "assets/silent-night-light.png",
+        "dark": "assets/silent-night-dark.png"
+      }
+    },
+    {
+      "id": "sugarplum",
+      "name": "Sugarplum",
+      "description": "Velvet plum, sugared rose, pale lilac, and soft cream.",
+      "source": "themes/sugarplum.json",
+      "icons": {
+        "evergreen": "assets/evergreen.svg"
+      },
+      "backgrounds": {
+        "light": "assets/sugarplum-light.png",
+        "dark": "assets/sugarplum-dark.png"
+      }
+    },
+    {
+      "id": "gingerbread",
+      "name": "Gingerbread",
+      "description": "Ginger biscuit, cocoa, icing cream, and warm copper.",
+      "source": "themes/gingerbread.json",
+      "icons": {
+        "evergreen": "assets/evergreen.svg"
+      },
+      "backgrounds": {
+        "light": "assets/gingerbread-light.png",
+        "dark": "assets/gingerbread-dark.png"
+      }
+    },
+    {
+      "id": "delivering-the-cheer",
+      "name": "Delivering the Cheer",
+      "description": "Festive parcel trains, snowy pines, cranberry red, and warm brass.",
+      "source": "themes/delivering-the-cheer.json",
+      "icons": {
+        "evergreen": "assets/evergreen.svg"
+      },
+      "backgrounds": {
+        "light": "assets/delivering-the-cheer-light.png",
+        "dark": "assets/delivering-the-cheer-dark.png"
+      }
+    }
+  ]
+}
