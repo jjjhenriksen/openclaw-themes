@@ -14,6 +14,8 @@ for(const entry of manifest.themes){
  assert(Buffer.byteLength(JSON.stringify(d))<=4096);
  for(const mode of ['light','dark']){
   const p=d[mode];
+  assert(p["font-sans"].endsWith(", serif"), "Serif UI default required");
+  assert(p["font-mono"].includes("monospace"), "Code must remain monospace");
   for(const key of ['background','foreground','card','card-foreground','popover','popover-foreground','primary','primary-foreground','secondary','secondary-foreground','muted','muted-foreground','accent','accent-foreground','destructive','destructive-foreground','border','input','ring'])assert.match(p[key],/^#[0-9a-f]{6}$/i);
   let min=Infinity;
   for(const [bg,fg] of [['background','foreground'],['card','card-foreground'],['popover','popover-foreground'],['primary','primary-foreground'],['secondary','secondary-foreground'],['muted','muted-foreground'],['accent','accent-foreground'],['destructive','destructive-foreground'],['background','muted-foreground'],['card','muted-foreground']]){

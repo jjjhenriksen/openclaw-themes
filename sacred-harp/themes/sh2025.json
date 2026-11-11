@@ -24,7 +24,7 @@
     "border": "#6e8175",
     "input": "#6e8175",
     "ring": "#1a2a23",
-    "font-sans": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+    "font-sans": "\"Libre Baskerville\", \"Iowan Old Style\", Baskerville, Georgia, \"Times New Roman\", serif",
     "font-mono": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace"
   },
   "dark": {
@@ -47,7 +47,7 @@
     "border": "#6e8175",
     "input": "#6e8175",
     "ring": "#e3c483",
-    "font-sans": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+    "font-sans": "\"Libre Baskerville\", \"Iowan Old Style\", Baskerville, Georgia, \"Times New Roman\", serif",
     "font-mono": "ui-monospace, \"SFMono-Regular\", Menlo, Consolas, monospace"
   }
 }

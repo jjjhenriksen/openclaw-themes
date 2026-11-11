@@ -7,7 +7,7 @@ Two edition-inspired themes, each with complete light and dark palettes:
 - **SH1991 · Oxblood**: wine-dark surfaces, warm paper, gold highlights.
 - **SH2025 · Pine**: forest-green surfaces, pale sage paper, gold highlights.
 
-Static OpenClaw Control UI theme plugin; no tools, services, dependencies, external font requests or lifecycle scripts. Existing UI structure and product name are preserved. The original four-shape mark uses triangle (fa), oval (sol), rectangle (la), diamond (mi). System fonts preserve chat readability; no custom heading-font mechanism is assumed.
+Static OpenClaw Control UI theme plugin; no tools, services, dependencies, external font requests or lifecycle scripts. Existing UI structure and product name are preserved. The original four-shape mark uses triangle (fa), oval (sol), rectangle (la), diamond (mi). Both themes default to a serif stack: Libre Baskerville, Iowan Old Style, Baskerville, Georgia, Times New Roman, serif. Available local fonts are used; no remote fonts are downloaded or bundled. Code and technical output retain monospace. No separate heading-font mechanism is assumed.
 
 ## Use
 
