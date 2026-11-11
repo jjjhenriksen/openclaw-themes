@@ -1,0 +1,27 @@
+{
+  "name": "Artemis Canopy",
+  "description": "Carbon-black panels, sage-green signals, and restrained gold inspired by Artemis Lost\u2019s Canopy Dark mission console.",
+  "dark": {
+    "background": "#061009",
+    "foreground": "#e1f1e5",
+    "card": "#0a1710",
+    "card-foreground": "#f4fff6",
+    "popover": "#09130d",
+    "popover-foreground": "#f4fff6",
+    "primary": "#95ecbc",
+    "primary-foreground": "#061009",
+    "secondary": "#16281d",
+    "secondary-foreground": "#e6c178",
+    "muted": "#0c1810",
+    "muted-foreground": "#afc9b8",
+    "accent": "#243e2c",
+    "accent-foreground": "#defbe8",
+    "destructive": "#e07b66",
+    "destructive-foreground": "#160907",
+    "border": "#35523e",
+    "input": "#1d3426",
+    "ring": "#74ddb0",
+    "font-sans": "\"Share Tech Mono\", \"SFMono-Regular\", Consolas, monospace",
+    "font-mono": "\"Share Tech Mono\", \"SFMono-Regular\", Consolas, monospace"
+  }
+}

@@ -13,3 +13,7 @@ Future theme families can live in separate top-level folders and publish indepen
 ## Nautical
 
 The [`nautical/`](nautical/) plugin contains **Chart Room**, **Captain’s Quarters**, and **Signal Flags**, each with light and dark palettes and matching scenic backgrounds. Local draft; see its README for validation and limitations.
+
+## Artemis
+
+The [`artemis/`](artemis/) plugin contains **Artemis Canopy**, a dark carbon, sage-green, and gold theme inspired by Artemis Lost. See its README for scope and limitations.

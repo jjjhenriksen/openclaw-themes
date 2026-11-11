@@ -1,0 +1,28 @@
+{
+  "name": "@jjjhenriksen/artemis-canopy-theme",
+  "version": "1.0.0",
+  "description": "Carbon-black panels, sage-green signals, and restrained gold inspired by Artemis Lost\u2019s Canopy Dark mission console.",
+  "type": "module",
+  "files": [
+    "index.js",
+    "openclaw.plugin.json",
+    "themes",
+    "README.md"
+  ],
+  "openclaw": {
+    "extensions": [
+      "./index.js"
+    ],
+    "compat": {
+      "pluginApi": ">=2026.11.3"
+    },
+    "build": {
+      "openclawVersion": "2026.11.3"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjjhenriksen/openclaw-themes.git",
+    "directory": "artemis"
+  }
+}
