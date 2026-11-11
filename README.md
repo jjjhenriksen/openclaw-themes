@@ -21,3 +21,7 @@ The [`artemis/`](artemis/) plugin contains **Artemis Canopy**, a dark carbon, sa
 ## Sacred Harp
 
 The [`sacred-harp/`](sacred-harp/) pack contains **SH1991 · Oxblood** and **SH2025 · Pine**, each in light and dark, using Shape-Note Atlas’s edition-specific palettes and an original four-shape mark. See its README for provenance and validation limits.
+
+## Travel
+
+The [`travel/`](travel/) pack pairs **Window Seat** and **Sleeper Car**, each in light and dark, as scenic companions for Travel Copilot or any OpenClaw agent. See its README for validation and current limitations.
