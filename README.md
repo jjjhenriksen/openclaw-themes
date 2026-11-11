@@ -13,3 +13,7 @@ Future theme families can live in separate top-level folders and publish indepen
 ## Nautical
 
 The [`nautical/`](nautical/) plugin contains **Chart Room**, **Captain’s Quarters**, and **Signal Flags**, each with light and dark palettes and matching scenic backgrounds. Local draft; see its README for validation and limitations.
+
+## Travel
+
+The [`travel/`](travel/) pack pairs **Window Seat** and **Sleeper Car**, each in light and dark, as scenic companions for Travel Copilot or any OpenClaw agent. See its README for validation and current limitations.
