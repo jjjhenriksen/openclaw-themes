@@ -1,5 +1,7 @@
 # Sacred Harp Themes
 
+*A love letter to a tradition I hold dear*
+
 Two edition-inspired themes, each with complete light and dark palettes:
 
 - **SH1991 · Oxblood**: wine-dark surfaces, warm paper, gold highlights.
