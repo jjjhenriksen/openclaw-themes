@@ -42,8 +42,8 @@ for mode in ['light','dark']:
  bg,sea,rope=('#edf3f6','#bdd3df','#a48b57') if mode=='light' else ('#0b182b','#142d48','#bc9954')
  s=f'<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000"><defs><linearGradient id="cloth"><stop stop-color="#fff" stop-opacity=".12"/><stop offset=".35" stop-color="#000" stop-opacity=".12"/><stop offset=".7" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></linearGradient></defs><rect width="1600" height="1000" fill="{bg}"/>'
  s+=f'<path d="M0 865Q400 820 800 870T1600 865V1000H0Z" fill="{sea}" opacity=".25"/>'
- # Three top swags and two lower swags, 45 flags total; all 26 letters represented.
- spans=[(-35,560,25,105,9),(520,1090,25,100,9),(1050,1635,25,105,9),(-35,825,785,95,9),(785,1635,785,95,9)]
+ # Three top swags, 27 flags total; all 26 letters represented.
+ spans=[(-35,560,25,105,9),(520,1090,25,100,9),(1050,1635,25,105,9)]
  letters='ABCDEFGHIJKLMNOPQRSTUVWXYZ';n=0
  for left,right,y,sag,count in spans:
   width=right-left
