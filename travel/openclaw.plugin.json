@@ -1,0 +1,38 @@
+{
+  "id": "travel-themes",
+  "name": "Travel Themes",
+  "description": "Window Seat and Sleeper Car: light/dark travel themes with scenic backgrounds.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  },
+  "themes": [
+    {
+      "id": "window-seat",
+      "name": "Window Seat",
+      "description": "Ivory and sky blue above sunlit coastlines; navy and amber for an overnight flight.",
+      "source": "themes/window-seat.json",
+      "icons": {
+        "journey": "assets/journey.svg"
+      },
+      "backgrounds": {
+        "light": "assets/window-seat-light.webp",
+        "dark": "assets/window-seat-dark.webp"
+      }
+    },
+    {
+      "id": "sleeper-car",
+      "name": "Sleeper Car",
+      "description": "Cream, forest green and countryside daylight; espresso, brass and a cozy overnight carriage.",
+      "source": "themes/sleeper-car.json",
+      "icons": {
+        "journey": "assets/journey.svg"
+      },
+      "backgrounds": {
+        "light": "assets/sleeper-car-light.webp",
+        "dark": "assets/sleeper-car-dark.webp"
+      }
+    }
+  ]
+}
