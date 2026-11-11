@@ -29,6 +29,6 @@ Checks passed: 40 token text-contrast pairs, focus-ring contrast, four WebP sign
 
 ## Signal Flags · 0.2.0
 
-Adds **Signal Flags**, with sailcloth-white/navy/red light colors and admiralty-blue/brass dark colors. International Code of Signals letter flags spell **OPENCLAW** across a halyard above a quiet reading area. The flags are decorative lettering, not an operational signal or navigational aid. Editable SVG originals are included in the repository; compressed WebP backgrounds ship with the plugin. No changes to the two existing themes.
+Adds **Signal Flags**, with sailcloth-white/navy/red light colors and admiralty-blue/brass dark colors. Forty-five International Code of Signals letter flags, covering all 26 letters, hang in five sweeping bunting swags along the top and bottom. The center stays quiet for reading. The flags are decorative lettering, not an operational signal or navigational aid. Editable SVG originals are included in the repository; compressed WebP backgrounds ship with the plugin. No changes to the two existing themes.
 
 Validation: 60 palette text-contrast checks and all six background signature/size checks; host theme-definition normalization. The new theme has not yet been checked in an installed Control UI. Existing screenshots show the original two themes only.
