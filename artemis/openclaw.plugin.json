@@ -1,7 +1,7 @@
 {
   "id": "artemis-canopy-theme",
   "name": "Artemis Canopy",
-  "description": "Carbon-black panels, sage-green signals, and restrained gold inspired by Artemis Lost\u2019s Canopy Dark mission console.",
+  "description": "Graphite panels, icy cyan controls, amber secondary accents, and monospace typography inspired by Artemis Lost’s mission console.",
   "configSchema": {
     "type": "object",
     "additionalProperties": false,
@@ -11,7 +11,7 @@
     {
       "id": "canopy-dark",
       "name": "Artemis Canopy",
-      "description": "Carbon-black panels, sage-green signals, and restrained gold inspired by Artemis Lost\u2019s Canopy Dark mission console.",
+      "description": "Graphite panels, icy cyan controls, amber secondary accents, and monospace typography inspired by Artemis Lost’s mission console.",
       "source": "themes/canopy-dark.json"
     }
   ]
