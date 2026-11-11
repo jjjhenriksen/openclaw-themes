@@ -1,0 +1,27 @@
+{
+  "name": "openclaw-sacred-harp-themes",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "SH1991 oxblood and SH2025 pine theme pairs.",
+  "files": [
+    "index.js",
+    "openclaw.plugin.json",
+    "themes/",
+    "assets/",
+    "README.md",
+    "palette-sources.json"
+  ],
+  "openclaw": {
+    "extensions": [
+      "./index.js"
+    ],
+    "compat": {
+      "pluginApi": ">=2026.11.1",
+      "minGatewayVersion": "2026.11.1"
+    }
+  },
+  "scripts": {
+    "test": "node scripts/validate.mjs"
+  }
+}

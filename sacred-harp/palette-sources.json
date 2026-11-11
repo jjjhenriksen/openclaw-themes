@@ -1,0 +1,80 @@
+{
+  "sh1991": {
+    "label": "Sacred Harp 1991",
+    "shortLabel": "1991",
+    "family": "sh",
+    "era": "Denson revision",
+    "description": "The oxblood cloth-and-silver Denson book, with a warmer paper field behind it.",
+    "coverImage": "https://sh1991.sacredharpbremen.org/wp-content/uploads/images/Denson-1991-bg.jpg",
+    "theme": {
+      "accent": "#c5a15a",
+      "accentSoft": "#e6cf95",
+      "accentStrong": "#6b1d2f",
+      "surface": "#f6e7d8",
+      "surfaceStrong": "#dfbead",
+      "ink": "#2a1715",
+      "muted": "#775955",
+      "glow": "rgba(122, 24, 47, 0.3)",
+      "card": "rgba(255, 248, 242, 0.74)",
+      "border": "rgba(107, 29, 47, 0.18)",
+      "shadow": "0 24px 60px rgba(76, 18, 33, 0.14)"
+    },
+    "darkTheme": {
+      "accent": "#d9b46d",
+      "accentSoft": "#f0d79f",
+      "accentStrong": "#f5e7cf",
+      "surface": "#231013",
+      "surfaceStrong": "#3a171f",
+      "ink": "#faefe2",
+      "muted": "#d2bcb4",
+      "glow": "rgba(122, 24, 47, 0.28)",
+      "card": "rgba(50, 19, 27, 0.82)",
+      "border": "rgba(217, 180, 109, 0.24)",
+      "shadow": "0 24px 60px rgba(0, 0, 0, 0.42)"
+    },
+    "fonts": {
+      "title": "\"Cormorant Garamond\", serif",
+      "display": "\"Cormorant Garamond\", serif",
+      "body": "\"Libre Baskerville\", serif"
+    }
+  },
+  "sh2025": {
+    "label": "Sacred Harp 2025",
+    "shortLabel": "2025",
+    "family": "sh",
+    "era": "Newest edition",
+    "description": "The dark green 2025 cover with gold tooling, translated into a brighter reading surface.",
+    "coverImage": "https://sacredharp.com/wp-content/uploads/2025/07/sacred-harp-2025-ed-cover-sm-600x431.png",
+    "theme": {
+      "accent": "#d4b06a",
+      "accentSoft": "#6c796f",
+      "accentStrong": "#1a2a23",
+      "surface": "#eef2e7",
+      "surfaceStrong": "#d3ddd1",
+      "ink": "#142018",
+      "muted": "#556258",
+      "glow": "rgba(212, 176, 106, 0.2)",
+      "card": "rgba(249, 250, 244, 0.74)",
+      "border": "rgba(40, 58, 48, 0.14)",
+      "shadow": "0 24px 60px rgba(20, 32, 24, 0.11)"
+    },
+    "darkTheme": {
+      "accent": "#e3c483",
+      "accentSoft": "#8d9b92",
+      "accentStrong": "#f6e2b7",
+      "surface": "#101815",
+      "surfaceStrong": "#1d2823",
+      "ink": "#edf2e9",
+      "muted": "#b7c4bc",
+      "glow": "rgba(212, 176, 106, 0.18)",
+      "card": "rgba(18, 27, 24, 0.78)",
+      "border": "rgba(255, 255, 255, 0.09)",
+      "shadow": "0 24px 60px rgba(0, 0, 0, 0.35)"
+    },
+    "fonts": {
+      "title": "\"Optima Nova Web\", \"Optima\", \"Segoe UI\", Candara, sans-serif",
+      "display": "\"Optima Nova Web\", \"Optima\", \"Segoe UI\", Candara, sans-serif",
+      "body": "\"Miller Text Local\", \"Miller Text\", \"Iowan Old Style\", Baskerville, \"Libre Baskerville\", Georgia, \"Times New Roman\", serif"
+    }
+  }
+}

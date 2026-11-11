@@ -17,3 +17,7 @@ The [`nautical/`](nautical/) plugin contains **Chart Room**, **Captain’s Quart
 ## Artemis
 
 The [`artemis/`](artemis/) plugin contains **Artemis Canopy**, a dark carbon, sage-green, and gold theme inspired by Artemis Lost. See its README for scope and limitations.
+
+## Sacred Harp
+
+The [`sacred-harp/`](sacred-harp/) pack contains **SH1991 · Oxblood** and **SH2025 · Pine**, each in light and dark, using Shape-Note Atlas’s edition-specific palettes and an original four-shape mark. See its README for provenance and validation limits.

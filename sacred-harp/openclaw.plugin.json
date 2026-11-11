@@ -1,0 +1,30 @@
+{
+  "id": "sacred-harp-themes",
+  "name": "Sacred Harp Themes",
+  "description": "Edition-inspired Sacred Harp palettes in light and dark.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  },
+  "themes": [
+    {
+      "id": "sh1991",
+      "name": "Sacred Harp 1991 · Oxblood",
+      "description": "Oxblood, warm parchment and gold from Shape-Note Atlas’s SH1991 palette.",
+      "source": "themes/sh1991.json",
+      "icons": {
+        "four-shapes": "assets/four-shapes.svg"
+      }
+    },
+    {
+      "id": "sh2025",
+      "name": "Sacred Harp 2025 · Pine",
+      "description": "Deep pine, sage and gold from Shape-Note Atlas’s SH2025 palette.",
+      "source": "themes/sh2025.json",
+      "icons": {
+        "four-shapes": "assets/four-shapes.svg"
+      }
+    }
+  ]
+}
