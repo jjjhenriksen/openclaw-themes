@@ -1,0 +1,29 @@
+{
+  "name": "openclaw-nautical-themes",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Chart Room and Captain\u2019s Quarters, each with light and dark scenic backgrounds.",
+  "files": [
+    "index.js",
+    "openclaw.plugin.json",
+    "themes/",
+    "assets/",
+    "README.md"
+  ],
+  "openclaw": {
+    "extensions": [
+      "./index.js"
+    ],
+    "compat": {
+      "pluginApi": ">=2026.11.1",
+      "minGatewayVersion": "2026.11.1"
+    },
+    "build": {
+      "openclawVersion": "2026.11.1",
+      "pluginSdkVersion": "2026.11.1"
+    }
+  },
+  "scripts": {
+    "test": "node scripts/validate.mjs"
+  }
+}
