@@ -21,7 +21,7 @@
     "border": "#35523e",
     "input": "#1d3426",
     "ring": "#74ddb0",
-    "font-sans": "\"Share Tech Mono\", \"SFMono-Regular\", Consolas, monospace",
-    "font-mono": "\"Share Tech Mono\", \"SFMono-Regular\", Consolas, monospace"
+    "font-sans": "\"JetBrains Mono\", \"SFMono-Regular\", Consolas, monospace",
+    "font-mono": "\"JetBrains Mono\", \"SFMono-Regular\", Consolas, monospace"
   }
 }
