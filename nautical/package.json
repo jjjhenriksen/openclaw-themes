@@ -1,8 +1,8 @@
 {
   "name": "openclaw-nautical-themes",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
-  "description": "Chart Room and Captain\u2019s Quarters, each with light and dark scenic backgrounds.",
+  "description": "Three nautical themes with light/dark palettes and matching backgrounds.",
   "files": [
     "index.js",
     "openclaw.plugin.json",

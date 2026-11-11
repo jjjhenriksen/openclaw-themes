@@ -12,4 +12,4 @@ Future theme families can live in separate top-level folders and publish indepen
 
 ## Nautical
 
-The [`nautical/`](nautical/) plugin contains **Chart Room** and **Captain’s Quarters**, each with light and dark palettes and matching scenic backgrounds. Local draft; see its README for validation and limitations.
+The [`nautical/`](nautical/) plugin contains **Chart Room**, **Captain’s Quarters**, and **Signal Flags**, each with light and dark palettes and matching scenic backgrounds. Local draft; see its README for validation and limitations.
