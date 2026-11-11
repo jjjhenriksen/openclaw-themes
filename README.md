@@ -9,3 +9,7 @@ The [`christmas/`](christmas/) plugin contains five themes, each with light and 
 See the [Christmas pack README](christmas/README.md) for requirements, validation and current limitations. Original editable SVG artwork is included. No credentials, runtime dependencies, or install lifecycle scripts are included.
 
 Future theme families can live in separate top-level folders and publish independently.
+
+## Nautical
+
+The [`nautical/`](nautical/) plugin contains **Chart Room** and **Captain’s Quarters**, each with light and dark palettes and matching scenic backgrounds. Local draft; see its README for validation and limitations.

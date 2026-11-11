@@ -1,0 +1,38 @@
+{
+  "id": "nautical-themes",
+  "name": "Nautical Themes",
+  "description": "Chart Room and Captain\u2019s Quarters, each with light and dark scenic backgrounds.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  },
+  "themes": [
+    {
+      "id": "chart-room",
+      "name": "Chart Room",
+      "description": "Ivory parchment and teal cartography by day; midnight navy and brass navigation by night.",
+      "source": "themes/chart-room.json",
+      "icons": {
+        "compass": "assets/compass.svg"
+      },
+      "backgrounds": {
+        "light": "assets/chart-room-light.webp",
+        "dark": "assets/chart-room-dark.webp"
+      }
+    },
+    {
+      "id": "captains-quarters",
+      "name": "Captain\u2019s Quarters",
+      "description": "Sunlit oak, cream and sea blue by day; lantern-lit walnut, amber and deep ocean by night.",
+      "source": "themes/captains-quarters.json",
+      "icons": {
+        "compass": "assets/compass.svg"
+      },
+      "backgrounds": {
+        "light": "assets/captains-quarters-light.webp",
+        "dark": "assets/captains-quarters-dark.webp"
+      }
+    }
+  ]
+}
