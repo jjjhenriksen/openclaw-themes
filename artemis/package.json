@@ -1,6 +1,6 @@
 {
   "name": "@jjjhenriksen/artemis-canopy-theme",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Green-glow terminal console with softly blurred binary columns, luminous sage actions and restrained gold.",
   "type": "module",
   "files": [
