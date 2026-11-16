@@ -1,6 +1,6 @@
 {
   "name": "openclaw-nautical-themes",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "type": "module",
   "description": "Three nautical themes with light/dark palettes and matching backgrounds.",
   "files": [

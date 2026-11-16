@@ -1,7 +1,7 @@
 {
   "id": "artemis-canopy-theme",
   "name": "Artemis Canopy",
-  "description": "Graphite panels, icy cyan controls, amber secondary accents, and monospace typography inspired by Artemis Lost’s mission console.",
+  "description": "Green-glow terminal console with softly blurred binary columns, luminous sage actions and restrained gold.",
   "configSchema": {
     "type": "object",
     "additionalProperties": false,
@@ -11,8 +11,11 @@
     {
       "id": "canopy-dark",
       "name": "Artemis Canopy",
-      "description": "Graphite panels, icy cyan controls, amber secondary accents, and monospace typography inspired by Artemis Lost’s mission console.",
-      "source": "themes/canopy-dark.json"
+      "description": "Green-glow terminal console with softly blurred binary columns, luminous sage actions and restrained gold.",
+      "source": "themes/canopy-dark.json",
+      "backgrounds": {
+        "dark": "assets/binary-canopy-dark.webp"
+      }
     }
   ]
 }

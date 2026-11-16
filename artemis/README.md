@@ -1,17 +1,18 @@
 # Artemis Canopy
 
-An OpenClaw dark theme inspired by [Artemis Lost](https://github.com/jjjhenriksen/Artemis-Lost) with a distinct graphite-and-cyan mission-console palette, amber secondary accents, and monospace typography.
+A green-glow terminal theme inspired by [Artemis Lost](https://github.com/jjjhenriksen/Artemis-Lost).
+
+## Version 1.2.0 — Binary Canopy
+Deep green-black panels, luminous sage controls, restrained gold secondary text, and softly blurred binary columns. The center stays quieter for reading; the edges carry the atmosphere.
+
+The original terminal palette and monospace font preference are retained. Share Tech Mono is used when installed, with system monospace fallbacks. Existing viewer font overrides take precedence.
+
+The backdrop is an original **static WebP**, not a falling animation. No continuous motion, flicker, remote fonts, external artwork or executable decoration. OpenClaw owns placement and contrast-preserving image dimming; appearance varies with background visibility settings and viewport.
 
 ## Use
+Install or update this plugin through ClawHub, then select **Settings → Appearance → Artemis Canopy**, dark mode. Theme ID: `artemis-canopy-theme/canopy-dark`.
 
-Install this plugin from ClawHub, enable it, then choose **Settings → Appearance → Artemis Canopy** in dark mode. Theme catalog ID: `artemis-canopy-theme/canopy-dark`.
+## Privacy and packaging
+No runtime dependencies, tools, hooks, network requests or filesystem access. The compiled JavaScript entrypoint is a no-op. The developer-only Pillow artwork generator in `scripts/` is excluded from the distributed package.
 
-This release supplies native semantic theme colors and font preferences, not the custom layout or decorative telemetry of a concept mockup. Cyan highlights primary actions, theme-aware links, interaction text, and focus rings. Amber marks secondary control text; graphite-blue surfaces replace the former green tint. Error colors remain reserved for destructive actions. It does not change your selected theme automatically. JetBrains Mono is used only if already installed; no external font requests are made.
-
-## Privacy
-
-No dependencies, tools, hooks, network requests, configuration changes, or filesystem access. The JavaScript entrypoint is a no-op; theme data is static JSON.
-
-## Palette revision · 1.0.3
-
-Graphite and cyan deliberately distinguish this theme from Sacred Harp 2025’s pine-and-gold palette. The gallery is a palette study, not a receiving-host screenshot. Run `npm test` for semantic color, contrast, manifest, and no-op entrypoint checks. Registry installation may still serve an earlier release until this revision is published.
+The binary design was approved from a browser preview; the published artwork uses the supported native theme background slot, not the preview's injected overlay.
