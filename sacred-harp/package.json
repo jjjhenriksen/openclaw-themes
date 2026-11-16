@@ -19,9 +19,18 @@
     "compat": {
       "pluginApi": ">=2026.11.1",
       "minGatewayVersion": "2026.11.1"
+    },
+    "build": {
+      "openclawVersion": "2026.11.1",
+      "pluginSdkVersion": "2026.11.1"
     }
   },
   "scripts": {
     "test": "node scripts/validate.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjjhenriksen/openclaw-themes.git",
+    "directory": "sacred-harp"
   }
 }

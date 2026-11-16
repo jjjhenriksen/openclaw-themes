@@ -16,7 +16,7 @@ The [`nautical/`](nautical/) plugin contains **Chart Room**, **Captain’s Quart
 
 ## Artemis
 
-The [`artemis/`](artemis/) plugin contains **Artemis Canopy**, a dark carbon, sage-green, and gold theme inspired by Artemis Lost. See its README for scope and limitations.
+The [`artemis/`](artemis/) plugin contains **Artemis Canopy**, a graphite, icy-cyan, and amber dark theme inspired by Artemis Lost. See its README for scope and limitations.
 
 ## Sacred Harp
 
